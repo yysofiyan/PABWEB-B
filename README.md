@@ -20,19 +20,18 @@
  - Jika anda menambahkan *remote* pada hasil *fork*, lakukan **merge** pada _branch **master**_ anda dengan _branch **master upstream**_.
  - Untuk cara sinkronisasi hasil *fork* dengan *upstream*, silahkan baca [Configure a remote for a fork](https://help.github.com/en/articles/configuring-a-remote-for-a-fork) dan [Syncing a fork](https://help.github.com/en/articles/syncing-a-fork).
 
-## Tools, Library and Modul Praktikum
+## Tools, Library and Modul Praktikum 👨🏻‍💻📕⚙️
 
 1. [Tools/Library](http://bit.ly/2tvgSYm) 📥
 2. [Visual Studio Code](https://code.visualstudio.com) 📥
 3. [Modul Praktikum](https://github.com/yysofiyan/PABWEB-B/blob/master/Modul%20Praktikum%20Pengembangan%20Aplikasi%20Berbasis%20Web%20(1)%20(1)%20(2).pdf) 📥
 
-## Referensi
+## Referensi 📖
 
 1. [git-scm](https://git-scm.com/book/id/v2/Memulai-Dasar-dasar-Git)
 2. [git-scm.com/doc](https://git-scm.com/doc)
 3. [betterexplained.com/](https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/)
 4. [conecting github with ssh](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
-5. 
 
 
 

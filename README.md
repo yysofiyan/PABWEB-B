@@ -28,10 +28,11 @@
 
 ## Referensi
 
-1. 🔗[git-scm](https://git-scm.com/book/id/v2/Memulai-Dasar-dasar-Git)
-2. 🔗[git-scm.com/doc](https://git-scm.com/doc)
-3. 🔗[https://betterexplained.com/articles/](https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/)
-4. 🔗[conecting github with ssh](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+1. [git-scm](https://git-scm.com/book/id/v2/Memulai-Dasar-dasar-Git)
+2. [git-scm.com/doc](https://git-scm.com/doc)
+3. [betterexplained.com/](https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/)
+4. [conecting github with ssh](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+5. 
 
 
 
@@ -78,6 +79,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This project follows the [all-contributors](https://allcontributors.org) specification.
 Contributions of any kind are welcome!
 
-## LICENSE
+----
 
-[MIT](LICENSE)
+<p align="center">
+<a href="#"><img src="https://img.shields.io/github/forks/yysofiyan/PABWEB-B.svg?style=plastic" alt="Fork"></a>
+<a href="#"><img src="https://img.shields.io/github/stars/yysofiyan/PABWEB-B.svg?style=plastic" alt="Stars"></a>
+<a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+</p>

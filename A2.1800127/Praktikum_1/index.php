@@ -1,0 +1,2 @@
+Sri Rahayu
+STMIK SUMEDANG

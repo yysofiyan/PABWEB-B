@@ -48,6 +48,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61279594?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Danni Ramdhani Samsudin 🥇</b></sub></a><br /><a href="https://github.com/danniramdhanisamsudin?tab=repositories" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/danniramdhanisamsudin" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61269579?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Jajang Jamaludin 🥇</b></sub></a><br /><a href="https://github.com/JajangJamaludin?tab=repositories" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/JajangJamaludin" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266364?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Krisman Nur Slamet</b></sub></a><br /><a href="https://github.com/Krismannurslamet?tab=repositories" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Krismannurslamet" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+     <td align="center"><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3" width="100px;" alt=""/><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+      <td align="center"><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3" width="100px;" alt=""/><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <!-- Baris Pertama -->
     <!-- isi profile akun github anda di bawah baris ke 2 -->
   </tr>
@@ -65,7 +67,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
    <!-- Baris Ke 5 Mak 7 Akun-->
-    <td align="center"><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3" width="100px;" alt=""/><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    
   </tr>
   <tr>
 

@@ -45,22 +45,24 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/34052001?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Yanyan Sofiyan, M.Kom</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61279594?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Danni Ramdhani Samsudin 🥇</b></sub></a><br /><a href="https://github.com/danniramdhanisamsudin?tab=repositories" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/danniramdhanisamsudin" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61269579?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Jajang Jamaludin</b></sub></a><br /><a href="https://github.com/JajangJamaludin?tab=repositories" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/JajangJamaludin" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266364?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Krisman Nur Slamet</b></sub></a><br /><a href="https://github.com/Krismannurslamet?tab=repositories" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Krismannurslamet" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <!-- Baris Pertama -->
     <!-- isi profile akun github anda di bawah baris ke 2 -->
 
   </tr>
   <tr>
      <!-- Baris 2 Max 7 Akun -->
-     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61279594?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Danni Ramdhani Samsudin</b></sub></a><br /><a href="https://github.com/danniramdhanisamsudin?tab=repositories" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/danniramdhanisamsudin" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-
+     
   </tr>
   <tr>
     <!-- Baris ke 3 Max 7 Akun-->
-  <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61269579?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Jajang Jamaludin</b></sub></a><br /><a href="https://github.com/JajangJamaludin?tab=repositories" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/JajangJamaludin" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+  
   </tr>
   <tr>
     <!-- Baris Ke 4 Mak 7 Akun-->
-    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266364?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Krisman Nur Slamet</b></sub></a><br /><a href="https://github.com/Krismannurslamet?tab=repositories" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Krismannurslamet" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    
   </tr>
   <tr>
    <!-- Baris Ke 5 Mak 7 Akun-->

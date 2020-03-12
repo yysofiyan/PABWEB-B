@@ -70,12 +70,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <!-- isi profile akun github anda di bawah baris ke 2 -->
   </tr>
   <tr>
-<<<<<<< HEAD
     <!-- Baris 2 Max 7 Akun -->
-=======
      <!-- Baris 2 Max 7 Akun -->
      <td align="center"><a href="#"><img src="https://c7.uihere.com/files/706/515/789/computer-icons-facepalm-clip-art-share-icon-portable-network-graphics-vector-students.jpg" width="100px;" alt=""/><br /><sub><b>Firda Rihadatun Nafisyah</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
->>>>>>> 24ceffd1ba9b27c6f9ddfc2a43d35403d97072d1
 
   </tr>
   <tr>

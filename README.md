@@ -68,8 +68,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266621?s=460&v=4" width="100px;"
     <td align="center"><a href="#"><img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3"
-          width="100px;" alt="" /><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
+          src="https://avatars0.githubusercontent.com/u/61266360?s=400&u=4a49c43a0d12f946bb5ba73bd9458f5798da1f6d&v=4"
+          width="100px;" alt="" /><br /><sub><b>Rizal Fathan Fadillah 🥇</b></sub></a><br /><a href="https://github.com/rizalfathan/PABWEB-B" title="Link Repo">🔗</a> <a
         href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <!-- Baris Pertama -->
     <!-- isi profile akun github anda di bawah baris ke 2 -->
@@ -78,6 +78,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <!-- Baris 2 Max 7 Akun -->
      <!-- Baris 2 Max 7 Akun -->
      <td align="center"><a href="#"><img src="https://c7.uihere.com/files/706/515/789/computer-icons-facepalm-clip-art-share-icon-portable-network-graphics-vector-students.jpg" width="100px;" alt=""/><br /><sub><b>Firda Rihadatun Nafisyah</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+     <td align="center"><a href="#"><img src="https://c7.uihere.com/files/706/515/789/computer-icons-facepalm-clip-art-share-icon-portable-network-graphics-vector-students.jpg" width="100px;" alt=""/><br /><sub><b>RISKY AMELIA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+     <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266174?s=460&u=cd3f2814ce3602229a59fad54f6d9112e8ac659f&v=4" width="100px;" alt=""/><br /><sub><b>Bima Maulana Saputra 🥇</b></sub></a><br /><a href="https://github.com/bimamaul/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/bimamaul" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 
   </tr>
   <tr>

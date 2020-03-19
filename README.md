@@ -92,6 +92,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <!-- Baris ke 3 Max 7 Akun-->
+     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266621?s=460&u=affabae7fed9b2960b8e133a869fb4d69341d402&v=4" width="100px;" alt=""/><br /><sub><b>Nurul Wulan </b></sub></a><br /><a href="https://github.com/NurulWulan17/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/NurulWulan17" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+
 
   </tr>
   <tr>

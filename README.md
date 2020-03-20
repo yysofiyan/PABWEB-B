@@ -62,10 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         href="https://github.com/Krismannurslamet?tab=repositories" title="Link Repo">🔗</a> <a href="#"
         title="Documentation">📖</a> <a href="https://github.com/Krismannurslamet" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
-    <td align="center"><a href="#"><img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3"
-          width="100px;" alt="" /><br /><sub><b>isi nama anda</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
-        href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    
     <!-- Baris Pertama -->
     <!-- isi profile akun github anda di bawah baris ke 2 -->
   </tr>
@@ -75,7 +72,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <!-- Baris ke 3 Max 7 Akun-->
-
+<td align="center"><a href="#"><img
+          src="https://avatars0.githubusercontent.com/u/61501197?s=400&u=7423d0c81e0817cc440ab4e1730e059d03622a87&v=4"
+          width="100px;" alt="" />
+          <br /><sub><b>Tresna Wiwitan</b></sub></a><br /><a href="https://github.com/Tresna20?tab=repositories" title="Link Repo">🔗</a> <a
+        href="https://github.com/Tresna20/PABWEB-B.git" title="Documentation">📖</a> <a href="https://github.com/Tresna20" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <tr>
     <!-- Baris Ke 4 Mak 7 Akun-->

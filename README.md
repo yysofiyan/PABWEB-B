@@ -56,54 +56,39 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/34052001?s=460&v=4" width="100px;"
-          alt="" /><br /><sub><b>Yanyan Sofiyan, M.Kom</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
+        alt="" /><br /><sub><b>Yanyan Sofiyan, M.Kom</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
         href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61279594?s=460&v=4" width="100px;"
-          alt="" /><br /><sub><b>Danni Ramdhani Samsudin 🥇</b></sub></a><br /><a
+        alt="" /><br /><sub><b>Danni Ramdhani Samsudin 🥇</b></sub></a><br /><a
         href="https://github.com/danniramdhanisamsudin?tab=repositories" title="Link Repo">🔗</a> <a href="#"
         title="Documentation">📖</a> <a href="https://github.com/danniramdhanisamsudin" title="Profile">👀</a> <a
         href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61269579?s=460&v=4" width="100px;"
-          alt="" /><br /><sub><b>Jajang Jamaludin 🥇</b></sub></a><br /><a
+        alt="" /><br /><sub><b>Jajang Jamaludin 🥇</b></sub></a><br /><a
         href="https://github.com/JajangJamaludin?tab=repositories" title="Link Repo">🔗</a> <a href="#"
         title="Documentation">📖</a> <a href="https://github.com/JajangJamaludin" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266364?s=460&v=4" width="100px;"
-          alt="" /><br /><sub><b>Krisman Nur Slamet</b></sub></a><br /><a
+        alt="" /><br /><sub><b>Krisman Nur Slamet</b></sub></a><br /><a
         href="https://github.com/Krismannurslamet?tab=repositories" title="Link Repo">🔗</a> <a href="#"
         title="Documentation">📖</a> <a href="https://github.com/Krismannurslamet" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
-    <td align="center"><a href="#"><img
-          src="https://avatars0.githubusercontent.com/u/61266360?s=400&u=4a49c43a0d12f946bb5ba73bd9458f5798da1f6d&v=4"
-          width="100px;" alt="" /><br /><sub><b>Rizal Fathan Fadillah 🥇</b></sub></a><br /><a href="https://github.com/rizalfathan/PABWEB-B" title="Link Repo">🔗</a> <a
-        href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266360?s=400&u=4a49c43a0d12f946bb5ba73bd9458f5798da1f6d&v=4" width="100px;"
+        alt="" /><br /><sub><b>Rizal Fathan Fadillah 🥇</b></sub></a><br /><a href="https://github.com/rizalfathan/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <!-- Baris Pertama -->
     <!-- isi profile akun github anda di bawah baris ke 2 -->
   </tr>
   <tr>
     <!-- Baris 2 Max 7 Akun -->
-     <!-- Baris 2 Max 7 Akun -->
-     <td align="center"><a href="#"><img src="https://c7.uihere.com/files/706/515/789/computer-icons-facepalm-clip-art-share-icon-portable-network-graphics-vector-students.jpg" width="100px;" alt=""/><br /><sub><b>Firda Rihadatun Nafisyah</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-<<<<<<< HEAD
-     <td align="center"><a href="#"><img src="https://c7.uihere.com/files/706/515/789/computer-icons-facepalm-clip-art-share-icon-portable-network-graphics-vector-students.jpg" width="100px;" alt=""/><br /><sub><b>RISKY AMELIA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-     <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266174?s=460&u=cd3f2814ce3602229a59fad54f6d9112e8ac659f&v=4" width="100px;" alt=""/><br /><sub><b>Bima Maulana Saputra 🥇</b></sub></a><br /><a href="https://github.com/bimamaul/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/bimamaul" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-     <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61534382?s=400&u=5650f4946ef24e342dafd1e57d280f20e6394fa7&v=4" width="100px;" alt=""/><br /><sub><b>Aziz Nur Falah 🥇</b></sub></a><br /><a href="https://github.com/Anurfah/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Anurfah" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-=======
      <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61534647?s=460&u=af457e1685dc4e6d7f83141911b8e4eb58f9e05a&v=4" width="100px;" alt=""/><br /><sub><b>RISKY AMELIA 🥇</b></sub></a><br /><a href="https://github.com/itsramelia/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/itsramelia" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266174?s=460&u=cd3f2814ce3602229a59fad54f6d9112e8ac659f&v=4" width="100px;" alt=""/><br /><sub><b>Bima Maulana Saputra 🥇</b></sub></a><br /><a href="https://github.com/bimamaul/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/bimamaul" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61534382?s=400&u=5650f4946ef24e342dafd1e57d280f20e6394fa7&v=4" width="100px;" alt=""/><br /><sub><b>Aziz Nur Falah 🥇</b></sub></a><br /><a href="https://github.com/Anurfah/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Anurfah" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266621?s=460&u=affabae7fed9b2960b8e133a869fb4d69341d402&v=4" width="100px;" alt=""/><br /><sub><b>M.Abi Fahzsa 🥇</b></sub></a><br /><a href="https://github.com/abimfah/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/abimfah" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
->>>>>>> upstream/master
-
+     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266354?s=460&u=bd7b4e4add026f56b7b0dd6860c277060be50cef&v=4" width="100px;" alt=""/><br /><sub><b>Nurul Wulan 🥇</b></sub></a><br /><a href="https://github.com/NurulWulan17/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/NurulWulan17" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <tr>
     <!-- Baris ke 3 Max 7 Akun-->
-<<<<<<< HEAD
-=======
-     <td align="center"><a href="#"><img src=https://avatars0.githubusercontent.com/u/61266354?s=460&u=bd7b4e4add026f56b7b0dd6860c277060be50cef&v=4 width="100px;" alt=""/><br /><sub><b>Nurul Wulan 🥇</b></sub></a><br /><a href="https://github.com/NurulWulan17/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/NurulWulan17" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-
->>>>>>> upstream/master
-
+     <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61266303?s=460&u=9c04e890ea4984d5cef6837e9cdb905470374ee4&v=4" width="100px;" alt=""/><br /><sub><b>Firda Rihadatun Nafisyah 🥇</b></sub></a><br /><a href="https://github.com/Frnafis" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <tr>
     <!-- Baris Ke 4 Mak 7 Akun-->

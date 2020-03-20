@@ -1,4 +1,12 @@
 # Repositori Praktikum Pengembangan Aplikasi Berbasis Web
+
+<p align="left">
+<a href="#"><img src="http://hits.dwyl.com/yysofiyan/PABWEB-B.svg"></a>
+<a href="#"><img src="https://img.shields.io/bitbucket/pr-raw/yysofiyan/PABWEB-B?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/github/repo-size/yysofiyan/PABWEB-B?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/github/commit-activity/w/yysofiyan/PABWEB-B?style=flat-square"></a>
+</p>
+
 #### Group : Group : B , Hari & Jam: Kamis - 13:00 s.d 16:20, ruang : R11
 
 ## Alur Pengumpulan Tugas ke Repositori Ini
@@ -8,7 +16,7 @@
 3. Didalam direktori **NIM** anda, buat sub direktori dengan nama _**Praktikum_n**_.
    > *Contoh **Praktikum_1** untuk Tugas pada Praktikum Pertemuan Pertama*  
 4. Seluruh berkas **Tugas Praktikum** pertemuan ke-_**n**_ dismpan pada direktori _**Praktikum_n**_.
-   > - Berkas tugas berupa  `struktur file selama mengerjakan praktikum`.
+   > - Berkas tugas berupa  `kode (source code) selama mengerjakan praktikum`.
    > - Format penamaan berkas : `nim_nama`
 5. **Push** berkas tugas anda ke repositori hasil *fork* pada *branch* **NIM** anda.
 6. Buat **Pull Request** untuk **Merge** *branch* **NIM** dengan *branch* **master** pada repositori ini.
@@ -25,6 +33,9 @@
 1. [Tools/Library](http://bit.ly/2tvgSYm) 📥 | *Gunakan 💌 Kampus*
 2. [Visual Studio Code](https://code.visualstudio.com) 📥
 3. [Modul Praktikum](https://github.com/yysofiyan/PABWEB-B/blob/master/Modul%20Praktikum%20Pengembangan%20Aplikasi%20Berbasis%20Web%20(1)%20(1)%20(2).pdf) 📥
+4. [Modul Praktikum Codeigniter](https://github.com/yysofiyan/PABWEB-B/blob/master/Modul%20Praktikum%20Codeigniter/pabweb-ci-%231.pdf) 📥 🔥
+5. [Modul Praktikum Laravel](#) 
+
 
 ## Referensi
 
@@ -73,13 +84,25 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <!-- Baris 2 Max 7 Akun -->
      <!-- Baris 2 Max 7 Akun -->
      <td align="center"><a href="#"><img src="https://c7.uihere.com/files/706/515/789/computer-icons-facepalm-clip-art-share-icon-portable-network-graphics-vector-students.jpg" width="100px;" alt=""/><br /><sub><b>Firda Rihadatun Nafisyah</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+<<<<<<< HEAD
      <td align="center"><a href="#"><img src="https://c7.uihere.com/files/706/515/789/computer-icons-facepalm-clip-art-share-icon-portable-network-graphics-vector-students.jpg" width="100px;" alt=""/><br /><sub><b>RISKY AMELIA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266174?s=460&u=cd3f2814ce3602229a59fad54f6d9112e8ac659f&v=4" width="100px;" alt=""/><br /><sub><b>Bima Maulana Saputra 🥇</b></sub></a><br /><a href="https://github.com/bimamaul/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/bimamaul" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61534382?s=400&u=5650f4946ef24e342dafd1e57d280f20e6394fa7&v=4" width="100px;" alt=""/><br /><sub><b>Aziz Nur Falah 🥇</b></sub></a><br /><a href="https://github.com/Anurfah/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Anurfah" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+=======
+     <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61534647?s=460&u=af457e1685dc4e6d7f83141911b8e4eb58f9e05a&v=4" width="100px;" alt=""/><br /><sub><b>RISKY AMELIA 🥇</b></sub></a><br /><a href="https://github.com/itsramelia/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/itsramelia" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+     <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266174?s=460&u=cd3f2814ce3602229a59fad54f6d9112e8ac659f&v=4" width="100px;" alt=""/><br /><sub><b>Bima Maulana Saputra 🥇</b></sub></a><br /><a href="https://github.com/bimamaul/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/bimamaul" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+     <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61534382?s=400&u=5650f4946ef24e342dafd1e57d280f20e6394fa7&v=4" width="100px;" alt=""/><br /><sub><b>Aziz Nur Falah 🥇</b></sub></a><br /><a href="https://github.com/Anurfah/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Anurfah" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266621?s=460&u=affabae7fed9b2960b8e133a869fb4d69341d402&v=4" width="100px;" alt=""/><br /><sub><b>M.Abi Fahzsa 🥇</b></sub></a><br /><a href="https://github.com/abimfah/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/abimfah" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+>>>>>>> upstream/master
 
   </tr>
   <tr>
     <!-- Baris ke 3 Max 7 Akun-->
+<<<<<<< HEAD
+=======
+     <td align="center"><a href="#"><img src=https://avatars0.githubusercontent.com/u/61266354?s=460&u=bd7b4e4add026f56b7b0dd6860c277060be50cef&v=4 width="100px;" alt=""/><br /><sub><b>Nurul Wulan 🥇</b></sub></a><br /><a href="https://github.com/NurulWulan17/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/NurulWulan17" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+
+>>>>>>> upstream/master
 
   </tr>
   <tr>

@@ -56,11 +56,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <!-- Baris ke 3 Max 7 Akun-->
-    <td align="center"><a href="#"><img src="https://c7.uihere.com/files/706/515/789/computer-icons-facepalm-clip-art-share-icon-portable-network-graphics-vector-students.jpg" width="100px;" alt=""/><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    
   </tr>
   <tr>
     <!-- Baris Ke 4 Mak 7 Akun-->
-    <td align="center"><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3" width="100px;" alt=""/><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266552?s=460&u=4b10ad71a6ba128f1e29352f7261d8f968ae7e05&v=4" width="100px;" alt=""/><br /><sub><b>Yuliyani</b></sub></a><br /><a href="https://github.com/Yuliyanii/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Yuliyanii" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <tr>
    <!-- Baris Ke 5 Mak 7 Akun-->

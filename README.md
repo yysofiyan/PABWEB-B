@@ -69,7 +69,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         title="Documentation">📖</a> <a href="https://github.com/JajangJamaludin" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266364?s=460&v=4" width="100px;"
-        alt="" /><br /><sub><b>Krisman Nur Slamet</b></sub></a><br /><a
+        alt="" /><br /><sub><b>Krisman Nur Slamet 🥇</b></sub></a><br /><a
         href="https://github.com/Krismannurslamet?tab=repositories" title="Link Repo">🔗</a> <a href="#"
         title="Documentation">📖</a> <a href="https://github.com/Krismannurslamet" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>

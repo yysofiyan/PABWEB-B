@@ -99,7 +99,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <!-- Baris Ke 4 Mak 5 Akun-->
   </tr>
   <tr>
+<<<<<<< HEAD
+    <!-- Baris Ke 4 Mak 7 Akun-->
+    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266448?s=400&u=f6b03d6eaaf5b9b904050cdccbd10d60d685bfe5&v=4" width="100px;" alt=""/><br /><sub><b>Salsabilla St S</b></sub></a><br /><a href="https://github.com/salsabillass76" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+=======
     <!-- Baris Ke 4 Mak 5 Akun-->
+>>>>>>> upstream/master
   </tr>
   <tr>
     <!-- Baris Ke 5 Mak 5 Akun-->

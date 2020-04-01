@@ -95,6 +95,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
           <br /><sub><b>Tresna Wiwitan 🥇</b></sub></a><br /><a href="https://github.com/Tresna20?tab=repositories" title="Link Repo">🔗</a><a
         href="https://github.com/Tresna20/PABWEB-B.git" title="Documentation">📖</a> <a href="https://github.com/Tresna20" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266448?s=400&u=f6b03d6eaaf5b9b904050cdccbd10d60d685bfe5&v=4" width="100px;" alt=""/><br /><sub><b>Salsabilla St S🥇</b></sub></a><br /><a href="https://github.com/salsabillass76" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+     <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266651?s=400&u=f6b90071f18938c2220f29e8715ac9391a27d432&v=4" width="100px;" alt=""/><br /><sub><b>Abdul Yusuf</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      
   </tr>
 </table>

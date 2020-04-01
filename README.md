@@ -97,10 +97,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <!-- Baris Ke 4 Mak 5 Akun-->
-    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61267189?s=460&u=2c94269af646d8b6d83babf60beb4779db3dea08&v=4" width="100px;" alt=""/><br /><sub><b>Sinta Manah 🥇</b></sub></a><br /><a href="https://github.com/SintaM/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/SintaM" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <tr>
     <!-- Baris Ke 4 Mak 5 Akun-->
+    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61267189?s=460&u=2c94269af646d8b6d83babf60beb4779db3dea08&v=4" width="100px;" alt=""/><br /><sub><b>Sinta Manah 🥇</b></sub></a><br /><a href="https://github.com/SintaM/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/SintaM" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <tr>
     <!-- Baris Ke 5 Mak 5 Akun-->

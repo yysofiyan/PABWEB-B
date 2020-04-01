@@ -86,6 +86,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
      <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61534382?s=400&u=5650f4946ef24e342dafd1e57d280f20e6394fa7&v=4" width="100px;" alt=""/><br /><sub><b>Aziz Nur Falah 🥇</b></sub></a><br /><a href="https://github.com/Anurfah/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Anurfah" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266621?s=460&u=affabae7fed9b2960b8e133a869fb4d69341d402&v=4" width="100px;" alt=""/><br /><sub><b>M.Abi Fahzsa 🥇</b></sub></a><br /><a href="https://github.com/abimfah/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/abimfah" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266354?s=460&u=bd7b4e4add026f56b7b0dd6860c277060be50cef&v=4" width="100px;" alt=""/><br /><sub><b>Nurul Wulan 🥇</b></sub></a><br /><a href="https://github.com/NurulWulan17/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/NurulWulan17" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+>>>>>>> upstream/master
   </tr>
   <tr>
     <!-- Baris ke 3 Max 5 Akun-->
@@ -96,7 +97,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         href="https://github.com/Tresna20/PABWEB-B.git" title="Documentation">📖</a> <a href="https://github.com/Tresna20" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266448?s=400&u=f6b03d6eaaf5b9b904050cdccbd10d60d685bfe5&v=4" width="100px;" alt=""/><br /><sub><b>Salsabilla St S 🥇</b></sub></a><br /><a href="https://github.com/salsabillass76" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266481?s=460&u=53008149ac49d0f586b5b1fa9622b2670e386465&v=4" width="100px;" alt=""/><br /><sub><b>Fadjar Widyana 🥇</b></sub></a><br /><a href="https://github.com/FadjarWN" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-     
+  </tr>
+
+  <tr>
+    <!-- Baris ke 4 Max 5 Akun-->
+    <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61266569?s=460&u=59519ed4bf909cada045c1bb234620d0ddf1351e&v=4" width="100px;" alt=""/><br /><sub><b>Deyan Saefulloh</b></sub></a><br /><a href="https://github.com/deyansaefulloh24" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
 </table>
 

@@ -102,7 +102,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <!-- Baris Ke 4 Mak 5 Akun-->
     <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61266569?s=460&u=59519ed4bf909cada045c1bb234620d0ddf1351e&v=4" width="100px;" alt=""/><br /><sub><b>Deyan Saefulloh 🥇</b></sub></a><br /><a href="https://github.com/deyansaefulloh24" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61267189?s=460&u=2c94269af646d8b6d83babf60beb4779db3dea08&v=4" width="100px;" alt=""/><br /><sub><b>Sinta Manah 🥇</b></sub></a><br /><a href="https://github.com/SintaM/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/SintaM" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+<<<<<<< HEAD
    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266651?s=400&u=f6b90071f18938c2220f29e8715ac9391a27d432&v=4" width="100px;" alt=""/><br /><sub><b>Abdul Yusup</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+=======
+>>>>>>> e0690ce8c5930a8ff0937b077ccf3686469893ea
   </tr>
   <tr>
     <!-- Baris Ke 4 Mak 5 Akun-->

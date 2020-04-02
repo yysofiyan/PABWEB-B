@@ -1,7 +1,7 @@
 ## Hasil Praktikum 1 (Membuat Web Aplikasi Data Siswa) 
 Hasil Akhir Praktek dari Modul Praktikum PHP7, Serta Hasil Meng-Hosting Website Tersebut.
 
-0. Nama  : Abdul Yusuf
+0. Nama  : Abdul Yusup
 1. NIM   : A2.1800003
 2. Kelas : TI-IVB
 3. Link WebSite  :  klik [Disini](https://a21800003a.000webhostapp.com)

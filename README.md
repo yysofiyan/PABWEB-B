@@ -104,6 +104,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
 </table>
 
+ <tr>
+    <!-- Baris ke 4 Max 5 Akun-->
+    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266389?s=400&u=8958c840e70fd89bb26686c232bd9a3276239c06&v=4" width="100px;" alt=""/><br /><sub><b>Rismaya Siti Mukarromah </b></sub></a><br /><a href="https://github.com/RismayaSM25" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+  </tr>
+</table>
+
 <!-- end -->
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->

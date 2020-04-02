@@ -32,9 +32,10 @@
 
 1. [Tools/Library](http://bit.ly/2tvgSYm) 📥 | *Gunakan 💌 Kampus*
 2. [Visual Studio Code](https://code.visualstudio.com) 📥
-3. [Modul Praktikum](https://github.com/yysofiyan/PABWEB-B/blob/master/Modul%20Praktikum%20Pengembangan%20Aplikasi%20Berbasis%20Web%20(1)%20(1)%20(2).pdf) 📥
-4. [Modul Praktikum Codeigniter](https://github.com/yysofiyan/PABWEB-B/blob/master/Modul%20Praktikum%20Codeigniter/pabweb-ci-%231.pdf) 📥 🔥
-5. [Modul Praktikum Laravel](#) 
+3. [Modul Praktikum Git & Github](https://github.com/yysofiyan/PABWEB-B/tree/master/Modul%20Praktikum%20Git%20%26%20Github) :octocat:
+4. [Modul Praktikum PHP7](https://github.com/yysofiyan/PABWEB-B/tree/master/Modul%20Praktikum%20PHP7) 📥
+5. [Modul Praktikum Codeigniter](https://github.com/yysofiyan/PABWEB-B/blob/master/Modul%20Praktikum%20Codeigniter/pabweb-ci-%231.pdf) 📥 🔥
+6. [Modul Praktikum Laravel](#) 
 
 
 ## Referensi
@@ -89,10 +90,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <!-- Baris ke 3 Max 5 Akun-->
      <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61266303?s=460&u=9c04e890ea4984d5cef6837e9cdb905470374ee4&v=4" width="100px;" alt=""/><br /><sub><b>Firda Rihadatun Nafisyah 🥇</b></sub></a><br /><a href="https://github.com/Frnafis" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-     <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266552?s=460&u=4b10ad71a6ba128f1e29352f7261d8f968ae7e05&v=4" width="100px;" alt=""/><br /><sub><b>Yuliyani 🥇</b></sub></a><br /><a href="https://github.com/Yuliyanii/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Yuliyanii" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+     <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266552?s=460&u=4b10ad71a6ba128f1e29352f7261d8f968ae7e05&v=4" width="100px;" alt=""/><br /><sub><b>Yuliyani 🥇</b></sub></a><br /><a href="https ://github.com/Yuliyanii/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Yuliyanii" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61501197?s=400&u=7423d0c81e0817cc440ab4e1730e059d03622a87&v=4" width="100px;" alt="" />
-          <br /><sub><b>Tresna Wiwitan 🥇</b></sub></a><br /><a href="https://github.com/Tresna20?tab=repositories" title="Link Repo">🔗</a> <a
+          <br /><sub><b>Tresna Wiwitan 🥇</b></sub></a><br /><a href="https://github.com/Tresna20?tab=repositories" title="Link Repo">🔗</a><a
         href="https://github.com/Tresna20/PABWEB-B.git" title="Documentation">📖</a> <a href="https://github.com/Tresna20" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+<<<<<<< HEAD
         <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266448?s=400&u=f6b03d6eaaf5b9b904050cdccbd10d60d685bfe5&v=4" width="100px;" alt=""/><br /><sub><b>Salsabilla St S 🥇</b></sub></a><br /><a href="https://github.com/salsabillass76" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266481?s=460&u=53008149ac49d0f586b5b1fa9622b2670e386465&v=4" width="100px;" alt=""/><br /><sub><b>Fadjar Widyana 🥇</b></sub></a><br /><a href="https://github.com/FadjarWN" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>    
 
@@ -105,15 +107,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <!-- Baris Ke 4 Mak 5 Akun-->
     <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61267189?s=460&u=2c94269af646d8b6d83babf60beb4779db3dea08&v=4" width="100px;" alt=""/><br /><sub><b>Sinta Manah 🥇</b></sub></a><br /><a href="https://github.com/SintaM/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/SintaM" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 
+=======
+>>>>>>> upstream/master
   </tr>
-  <tr>
-    <!-- Baris Ke 5 Mak 5 Akun-->
-  </tr>
-  <tr>
 
+  <tr>
+    <!-- Baris ke 4 Max 5 Akun-->
   </tr>
 </table>
 
+<!-- end -->
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->

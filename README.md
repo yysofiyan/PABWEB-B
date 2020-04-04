@@ -106,6 +106,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266389?s=400&u=8958c840e70fd89bb26686c232bd9a3276239c06&v=4" width="100px;" alt=""/><br /><sub><b>Rismaya Siti Mukarromah 🥇</b></sub></a><br /><a href="https://github.com/RismayaSM25" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61509890?s=400&u=da97ca2fb4957010398fe90323eaf9495c0aaa4b&v=4" width="100px;" alt=""/><br /><sub><b>Sri Rahayu</b></sub></a><br /><a href="https://github.com/srirahayu22" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
+   <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61490086?s=460&v=4;" alt=""/><br /><sub><b>Marissa Maysaroh</b></sub></a><br /><a href="https://github.com/marissa61500" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+  </tr>
 </table>
 
 <!-- end -->

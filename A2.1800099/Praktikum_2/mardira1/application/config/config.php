@@ -23,8 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = '';
-
+$config['base_url'] = 'http://localhost/mardira1';
 /*
 |--------------------------------------------------------------------------
 | Index File
@@ -35,7 +34,7 @@ $config['base_url'] = '';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = '';
+$config['index_page'] = 'index.php';
 
 /*
 |--------------------------------------------------------------------------

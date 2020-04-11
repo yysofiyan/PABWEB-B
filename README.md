@@ -60,12 +60,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         alt="" /><br /><sub><b>Yanyan Sofiyan, M.Kom</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
         href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61279594?s=460&v=4" width="100px;"
-        alt="" /><br /><sub><b>Danni Ramdhani Samsudin 🥇</b></sub></a><br /><a
+        alt="" /><br /><sub><b>Danni Ramdhani Samsudin<br>🥇🥇</b></sub></a><br /><a
         href="https://github.com/danniramdhanisamsudin?tab=repositories" title="Link Repo">🔗</a> <a href="#"
         title="Documentation">📖</a> <a href="https://github.com/danniramdhanisamsudin" title="Profile">👀</a> <a
         href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61269579?s=460&v=4" width="100px;"
-        alt="" /><br /><sub><b>Jajang Jamaludin 🥇</b></sub></a><br /><a
+        alt="" /><br /><sub><b>Jajang Jamaludin<br>🥇🥇</b></sub></a><br /><a
         href="https://github.com/JajangJamaludin?tab=repositories" title="Link Repo">🔗</a> <a href="#"
         title="Documentation">📖</a> <a href="https://github.com/JajangJamaludin" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
@@ -75,13 +75,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         title="Documentation">📖</a> <a href="https://github.com/Krismannurslamet" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266360?s=400&u=4a49c43a0d12f946bb5ba73bd9458f5798da1f6d&v=4" width="100px;"
-        alt="" /><br /><sub><b>Rizal Fathan Fadillah 🥇</b></sub></a><br /><a href="https://github.com/rizalfathan/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+        alt="" /><br /><sub><b>Rizal Fathan Fadillah<br>🥇🥇</b></sub></a><br /><a href="https://github.com/rizalfathan/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <!-- Baris Pertama -->
     <!-- isi profile akun github anda di bawah baris ke 2 -->
   </tr>
   <tr>
     <!-- Baris 2 Max 5 Akun -->
-     <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61534647?s=460&u=af457e1685dc4e6d7f83141911b8e4eb58f9e05a&v=4" width="100px;" alt=""/><br /><sub><b>RISKY AMELIA 🥇</b></sub></a><br /><a href="https://github.com/itsramelia/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/itsramelia" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+     <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61534647?s=460&u=af457e1685dc4e6d7f83141911b8e4eb58f9e05a&v=4" width="100px;" alt=""/><br /><sub><b>RISKY AMELIA<br>🥇🥇</b></sub></a><br /><a href="https://github.com/itsramelia/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/itsramelia" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266174?s=460&u=cd3f2814ce3602229a59fad54f6d9112e8ac659f&v=4" width="100px;" alt=""/><br /><sub><b>Bima Maulana Saputra 🥇</b></sub></a><br /><a href="https://github.com/bimamaul/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/bimamaul" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61534382?s=400&u=5650f4946ef24e342dafd1e57d280f20e6394fa7&v=4" width="100px;" alt=""/><br /><sub><b>Aziz Nur Falah 🥇</b></sub></a><br /><a href="https://github.com/Anurfah/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Anurfah" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266621?s=460&u=affabae7fed9b2960b8e133a869fb4d69341d402&v=4" width="100px;" alt=""/><br /><sub><b>M.Abi Fahzsa 🥇</b></sub></a><br /><a href="https://github.com/abimfah/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/abimfah" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
@@ -90,7 +90,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <!-- Baris ke 3 Max 5 Akun-->
      <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61266303?s=460&u=9c04e890ea4984d5cef6837e9cdb905470374ee4&v=4" width="100px;" alt=""/><br /><sub><b>Firda Rihadatun Nafisyah 🥇</b></sub></a><br /><a href="https://github.com/Frnafis" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-     <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266552?s=460&u=4b10ad71a6ba128f1e29352f7261d8f968ae7e05&v=4" width="100px;" alt=""/><br /><sub><b>Yuliyani 🥇</b></sub></a><br /><a href="https ://github.com/Yuliyanii/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Yuliyanii" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+     <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266552?s=460&u=4b10ad71a6ba128f1e29352f7261d8f968ae7e05&v=4" width="100px;" alt=""/><br /><sub><b>Yuliyani<b>🥇🥇</b></sub></a><br /><a href="https ://github.com/Yuliyanii/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Yuliyanii" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61501197?s=400&u=7423d0c81e0817cc440ab4e1730e059d03622a87&v=4" width="100px;" alt="" />
           <br /><sub><b>Tresna Wiwitan 🥇</b></sub></a><br /><a href="https://github.com/Tresna20?tab=repositories" title="Link Repo">🔗</a><a
         href="https://github.com/Tresna20/PABWEB-B.git" title="Documentation">📖</a> <a href="https://github.com/Tresna20" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
@@ -104,7 +104,19 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61267189?s=460&u=2c94269af646d8b6d83babf60beb4779db3dea08&v=4" width="100px;" alt=""/><br /><sub><b>Sinta Manah 🥇</b></sub></a><br /><a href="https://github.com/SintaM/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/SintaM" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266651?s=400&u=f6b90071f18938c2220f29e8715ac9391a27d432&v=4" width="100px;" alt=""/><br /><sub><b>Abdul Yusup 🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266389?s=400&u=8958c840e70fd89bb26686c232bd9a3276239c06&v=4" width="100px;" alt=""/><br /><sub><b>Rismaya Siti Mukarromah 🥇</b></sub></a><br /><a href="https://github.com/RismayaSM25" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-   <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61509890?s=400&u=da97ca2fb4957010398fe90323eaf9495c0aaa4b&v=4" width="100px;" alt=""/><br /><sub><b>Sri Rahayu</b></sub></a><br /><a href="https://github.com/srirahayu22" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+
+   <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61509890?s=400&u=da97ca2fb4957010398fe90323eaf9495c0aaa4b&v=4" width="100px;" alt=""/><br /><sub><b>Sri Rahayu<br>🥇</b></sub></a><br /><a href="https://github.com/srirahayu22" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+  </tr>
+  <!-- BARIS Ke 5 -->
+  <tr>
+    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266536?s=400&u=8958c840e70fd89bb26686c232bd9a3276239c06&v=4" width="100px;" alt=""/><br /><sub><b>Natasya Savira Putri🥇</b></sub></a><br /><a href="https://github.com/NatasyaSavira25" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+   
+   <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61490086?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Marissa Maysaroh</b></sub></a><br /><a href="https://github.com/marissa61500" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+
+   <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266392?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Alif Yudis🥇</b></sub></a><br /><a href="https://github.com/Alifyudis?tab=repositories" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Alifyudis" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+
+  <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61528484?s=400&u=5a54a51428a4e0803bdd98d937a70bb62d545fbb&v=4" width="100px;" alt=""/><br /><sub><b>Fauzi Mulyana</b></sub></a><br /><a href="https://github.com/uji312" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+
   </tr>
 </table>
 

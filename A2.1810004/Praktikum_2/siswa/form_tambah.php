@@ -57,7 +57,7 @@
 
 							<div class="form-group  col-md-12">
 								<label>Tanggal Lahir</label>
-								<input type="date" class="form-control  date-picker" data-date-format="dd-mm-yyyy" name="tanggal_lahir" autocomplete="off" required>
+								<input type="text" class="form-control  date-picker" data-date-format="dd-mm-yyyy" name="tanggal_lahir" autocomplete="off" required>
 								<div class="invalid-feedback">Tanggal Lahir tidak boleh kosong.</div>
 							</div>
 							<div class="form-group  col-md-12">

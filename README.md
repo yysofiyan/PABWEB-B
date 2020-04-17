@@ -88,10 +88,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
      <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266354?s=460&u=bd7b4e4add026f56b7b0dd6860c277060be50cef&v=4" width="100px;" alt=""/><br /><sub><b>Nurul Wulan<br>🥇🥇</b></sub></a><br /><a href="https://github.com/NurulWulan17/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/NurulWulan17" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <tr>
-<<<<<<< HEAD
-    <!-- Baris Ke 4 Mak 7 Akun-->
-    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266815?s=400&u=1200334f28e1ecf40afed2e5ff9acbb1bcdec98a&v=4" width="100px;" alt=""/><br /><sub><b>VERGIN HERLANG HERLANGGA</b></sub></a><br /><a href="https://github.com/verginherlang" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-=======
     <!-- Baris ke 3 Max 5 Akun-->
      <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61266303?s=460&u=9c04e890ea4984d5cef6837e9cdb905470374ee4&v=4" width="100px;" alt=""/><br /><sub><b>Firda Rihadatun Nafisyah 🥇</b></sub></a><br /><a href="https://github.com/Frnafis" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266552?s=460&u=4b10ad71a6ba128f1e29352f7261d8f968ae7e05&v=4" width="100px;" alt=""/><br /><sub><b>Yuliyani<b>🥇🥇</b></sub></a><br /><a href="https ://github.com/Yuliyanii/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Yuliyanii" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
@@ -121,6 +117,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266392?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Alif Yudis🥇</b></sub></a><br /><a href="https://github.com/Alifyudis?tab=repositories" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Alifyudis" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 
   <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61528484?s=400&u=5a54a51428a4e0803bdd98d937a70bb62d545fbb&v=4" width="100px;" alt=""/><br /><sub><b>Fauzi Mulyana</b></sub></a><br /><a href="https://github.com/uji312" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+  
+  <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266815?s=400&u=1200334f28e1ecf40afed2e5ff9acbb1bcdec98a&v=4" width="100px;" alt=""/><br /><sub><b>VERGIN HERLANG HERLANGGA</b></sub></a><br /><a href="https://github.com/verginherlang" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 
   </tr>
 </table>

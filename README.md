@@ -89,7 +89,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <!-- Baris ke 3 Max 5 Akun-->
-     <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61266303?s=460&u=9c04e890ea4984d5cef6837e9cdb905470374ee4&v=4" width="100px;" alt=""/><br /><sub><b>Firda Rihadatun Nafisyah 🥇</b></sub></a><br /><a href="https://github.com/Frnafis" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+     <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61266303?s=460&u=9c04e890ea4984d5cef6837e9cdb905470374ee4&v=4" width="100px;" alt=""/><br /><sub><b>Firda Rihadatun Nafisyah<br>🥇🥇</b></sub></a><br /><a href="https://github.com/Frnafis" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61266552?s=460&u=4b10ad71a6ba128f1e29352f7261d8f968ae7e05&v=4" width="100px;" alt=""/><br /><sub><b>Yuliyani<b>🥇🥇</b></sub></a><br /><a href="https ://github.com/Yuliyanii/PABWEB-B" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Yuliyanii" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
      <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61501197?s=400&u=7423d0c81e0817cc440ab4e1730e059d03622a87&v=4" width="100px;" alt="" />
           <br /><sub><b>Tresna Wiwitan 🥇</b></sub></a><br /><a href="https://github.com/Tresna20?tab=repositories" title="Link Repo">🔗</a><a

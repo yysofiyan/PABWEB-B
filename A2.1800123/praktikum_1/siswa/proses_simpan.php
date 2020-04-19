@@ -1,7 +1,7 @@
 <?php
 
 require_once "config/database.php";
-// jika tombol simpan diklik
+
 if (isset($_POST['simpan'])) {
 
     $nis            = mysqli_real_escape_string($db, trim($_POST['nis']));
@@ -38,7 +38,7 @@ if (isset($_POST['simpan'])) {
 
     if ($insert) {
 
-        header("location: index.php?alert=1");
+                header("location: index.php?alert=1");
             }
         }
     }

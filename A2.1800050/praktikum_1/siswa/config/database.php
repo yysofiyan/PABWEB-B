@@ -10,6 +10,6 @@ $database = "db_sekolah";
 $db = mysqli_connect($server, $username, $password, $database);
 
 if (!$db)  {
-    die('Koneksi Database Gagal : '.mysqli_connect_error());
+    die('Koneksi Database Gagal : ' . mysqli_connect_error());
 }
-?>
+?>s

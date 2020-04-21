@@ -117,6 +117,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
   <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61528484?s=400&u=5a54a51428a4e0803bdd98d937a70bb62d545fbb&v=4" width="100px;" alt=""/><br /><sub><b>Fauzi Mulyana</b></sub></a><br /><a href="https://github.com/uji312" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 
+  <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61819544?s=400&u=155908e6dc3ea2d92515003d3348acc8024f0e33&v=4" width="100px;" alt=""/><br /><sub><b>Cepi Yahya</b></sub></a><br /><a href="https://github.com/cepiyahya25" title="Link Repo">🔗</a> <a href="https://github.com/cepiyahya25?tab=repositories" title="Documentation">📖</a> <a href="https://github.com/cepiyahya25" title="Profile">👀</a> <a href="https://www.facebook.com/cepi.yahya25" title="Talks">📢</a></td>
   </tr>
 </table>
 

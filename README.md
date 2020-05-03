@@ -123,6 +123,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <!-- BARIS Ke 6 -->
   <tr>
   <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61292655?s=400&u=42a7393c1dbbbb53699b951ad48e67bff6d6ce8c&v=4" width="100px;" alt=""/><br /><sub><b>Ihsan Septian<br>🥇</b></sub></a><br /><a href="https://github.com/ihsanseptian/PABWEB-B" title="Link Repo">🔗</a> <a href="" title="Documentation">📖</a> <a href="https://github.com/ihsanseptian/" title="Profile">👀</a> <a href="" title="Talks">📢</a></td>
+
+  <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61266815?s=400&u=1200334f28e1ecf40afed2e5ff9acbb1bcdec98a&v=4" width="100px;" alt=""/><br /><sub><b>Vergin herlang</b></sub></a><br /><a href="https://github.com/verginherlang" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
 </table>
 

@@ -1,0 +1,17 @@
+halaman_utama.php
+<?php
+
+class Halaman_utama extends CI_Controller
+{
+    public function index()
+    {
+        $this->load->view('halaman_utama_v');
+    }
+}
+
+halaman_utama_v.php
+<h1>Menu Utama</h1>
+<ul>
+    <li><?php echo anchor('mhs', 'Data Mahasiswa') ?></li>
+    <li><?php echo anchor('prodi', 'Data Program Studi') ?></li>
+</ul>

@@ -1,1 +1,0 @@
-<h1>Ups, halaman tidak ditemukan!</h1>

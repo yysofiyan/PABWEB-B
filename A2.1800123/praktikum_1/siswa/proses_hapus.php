@@ -21,10 +21,10 @@ if (isset($_GET['nis'])) {
 
         if ($delete) {
 
-        header("location: index.php?alert=3");
+            header("location: index.php?alert=3");
         }
     }
 }
 
-ysqli_close($db);
+mysqli_close($db);
 ?>
